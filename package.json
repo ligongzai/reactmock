@@ -1,0 +1,21 @@
+{
+    "name": "reactmock",
+    "version": "1.0.0",
+    "description": "制作的一个react的学习demo",
+    "author": "gongyili",
+    "dependencies": {
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2"
+    },
+    "devDependencies": {
+        "fis-parser-babel-6.x": "^6.24.1",
+        "fis3-parser-less-2.x": "^0.1.4",
+        "fis3-hook-commonjs": "^0.1.26",
+        "fis3-hook-node_modules": "^2.3.0",
+        "fis3-postpackager-loader": "^2.1.10"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ligongzai/reactmock.git"
+    }
+}
