@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom'
+import Root from './components/root'
 
 // tutorial1.js
 class CommentBox extends Component {
@@ -13,6 +14,6 @@ class CommentBox extends Component {
 }
 
 render(
-    <CommentBox />,
+    <Root/>,
     document.getElementById('content')
 )
